@@ -16,3 +16,4 @@ http://techbus.safaribooksonline.com/020161622X/app03lev1sec1#id1e1052
 
 https://skillsmatter.com/skillscasts/5710-in-the-brain-of-richard-rodger-building-a-node-js-search-engine-using-the-micro-service-architecture
 
+http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
