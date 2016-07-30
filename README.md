@@ -23,3 +23,6 @@ reactivemanifesto
 https://www.lightbend.com/platform/development
 
 https://en.wikipedia.org/wiki/Cyclic_redundancy_check
+
+
+mesos
